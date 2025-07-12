@@ -1,0 +1,11 @@
+Name,Wakeup,Sleep,Cleanliness,IntroExtro,StudyTime,NoiseTolerance,PetFriendly,IdealRoommate
+Kana,Early,Early,5,0.2,Morning,2,True,Quiet and wakes up early
+Aki,Mid,Late,2,0.7,Night,5,False,Talkative and fun
+Ritu,Late,Late,3,0.3,Night,3,True,Clean and chill
+Dev,Early,Mid,4,0.5,Morning,4,False,Loves morning workouts
+Meera,Late,Early,5,0.1,Morning,1,True,Very organized and lowkey
+Yuki,Mid,Mid,1,0.9,Night,5,False,Fun and loves music
+Ishaan,Early,Late,3,0.6,Night,3,True,Flexible and calm
+Tara,Late,Late,2,0.4,Morning,2,True,Lazy but sweet
+Rey,Mid,Early,4,0.8,Morning,4,False,Chill and peaceful
+Neha,Early,Mid,5,0.3,Night,2,True,"Early sleeper, early riser"
