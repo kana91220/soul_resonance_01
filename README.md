@@ -1,33 +1,28 @@
-#🩻SOUL RESONANCE🩻
-AI/ML Arc: Season 1
+# 🩻 SOUL RESONANCE 🩻  
+### *AI/ML Arc: Season 1*
 
-Mini projects while I learn , break stuff and get smarter
-
----
-
-##PROJECTS
-
--'Roommate-matcher': Match roommates by vibe
-
--'Mood tracker': Emoji+ journal moods
-
--More coming soon🤓
+Mini projects while I learn, break stuff, and get smarter 😤🧠
 
 ---
 
-##Tech Stack
+## 📁 PROJECTS
 
-Python • Streamlit • Pandas • Sckiit-learn • Matplotlib
-
-And way too much trial & error😔☝🏻💔
+- `Roommate Matcher` — Match roommates by vibe 🌙✨  
+- `Mood Tracker` — Emoji + journal your moods 📓💖  
+- _More coming soon..._ 🤓💭
 
 ---
 
-##GOAL
+## 🛠️ TECH STACK
 
-Build cool stuff. Stay consistent.
+`Python` • `Streamlit` • `Pandas` • `Scikit-learn` • `Matplotlib`  
+And way too much **trial & error** 😔☝🏻💔
 
-Keep learning - even when the code hates me💔🥀
+---
 
+## 🎯 GOAL
 
-Yummy Learning!(〜￣▽￣)〜
+Build cool stuff. Stay consistent.  
+Keep learning — even when the code hates me 💔🥀  
+
+**Yummy Learning!** (〜￣▽￣)〜 🍭
